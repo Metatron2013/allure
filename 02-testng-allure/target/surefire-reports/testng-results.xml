@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="326" started-at="2020-09-22T12:13:08 CST" finished-at="2020-09-22T12:13:09 CST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="326" started-at="2020-09-22T12:13:08 CST" finished-at="2020-09-22T12:13:09 CST">
+      <class name="com.report.testng.allure.TestNGWithAllure">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.report.testng.allure.TestNGWithAllure@242aa8d9]" name="setUp" is-config="true" duration-ms="24" started-at="2020-09-22T12:13:08 CST" finished-at="2020-09-22T12:13:08 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase_001()[pri:0, instance:com.report.testng.allure.TestNGWithAllure@242aa8d9]" name="testCase_001" duration-ms="78" started-at="2020-09-22T12:13:08 CST" description="娴嬭瘯鐢ㄤ緥_001鎻忚堪锛圱estNG锛�" finished-at="2020-09-22T12:13:08 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_001 -->
+        <test-method status="PASS" signature="testCase_002()[pri:0, instance:com.report.testng.allure.TestNGWithAllure@242aa8d9]" name="testCase_002" duration-ms="2" started-at="2020-09-22T12:13:09 CST" finished-at="2020-09-22T12:13:09 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_002 -->
+      </class> <!-- com.report.testng.allure.TestNGWithAllure -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
